@@ -1,4 +1,7 @@
-# Python_Diwali_Sales_Analysis
-Python project for beginners- Analyze Diwali sales data to improve customer experience and sales
+The Diwali Sales Analysis project explores sales data from a festive season to extract valuable business insights. Using Python and data visualization techniques, this analysis helps identify customer behavior, top-selling products, and regional trends to optimize future sales strategies.
 
-## Watch complete tutorial video: https://www.youtube.com/watch?v=KgCgpCIOkIs
+🔧 Technologies Used
+Python: Data manipulation and analysis
+NumPy: Numerical computations for data processing
+Pandas: Data cleaning, transformation, and exploration
+Matplotlib & Seaborn: Data visualization for identifying trends and patterns
